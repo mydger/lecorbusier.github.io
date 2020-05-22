@@ -6,6 +6,7 @@ Réalisé par Lyvahne Yang-Ting, Marius Watripont, Alexis Menachaud et Lukian Pi
 # Choix techniques :
 
 Thème HTML5-Bootstrap : Regna
+
 Ajout de scripts JS 
 
 # Reste à réaliser : 
