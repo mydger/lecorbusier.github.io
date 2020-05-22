@@ -8,7 +8,14 @@ Réalisé par Lyvahne Yang-Ting, Marius Watripont, Alexis Menachaud et Lukian Pi
 
 Thème HTML5-Bootstrap : Regna
 
-Ajout de scripts JS 
+Effet parallax 
+
+Ajout de scripts JS : sons au clic du menu
+
+Porfolio : style fiches / icones de l'époque
+
+Fiche Paul Otlet
+
 
 
 # Signification dossiers repository 
@@ -26,5 +33,7 @@ robots.txt et sitemap.xml : référencement
 
 # Reste à réaliser : 
 
-Placer le visage de Le Corbusier sur le cerveau, ajouter les liens
+Placer le visage de Le Corbusier sur le cerveau, ajouter les liens, traduire
+
+Revoir les séparations entre "slides"
 
