@@ -1077,7 +1077,7 @@ div.info div.shape-container {
   top: -135px;
   left: calc(-50vw + 150px);
 }
-div.info div.shape-container div.shape {
+#carte1 div.info div.shape-container div.shape {
   background-image: url(https://abrilquatrorodas.files.wordpress.com/2017/01/homer-simpson.jpg?quality=70&strip=info&w=1024);
   background-repeat: no-repeat;
   background-size: 300px 200px;
